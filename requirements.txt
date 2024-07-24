@@ -1,4 +1,5 @@
+torch
 streamlit
 transformers
-Tensorflow
-tf-keras
+datasets 
+pandas
