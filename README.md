@@ -1,5 +1,5 @@
 ---
-title: CS670-Project
+title: CS670-Project-milestone3
 emoji: 🌖
 colorFrom: green
 colorTo: blue
@@ -9,4 +9,4 @@ app_file: app.py
 pinned: false
 ---
 
-The deployed streamlit app is available at https://huggingface.co/spaces/mmr44/CS670-Project
+The deployed streamlit app is available at https://huggingface.co/spaces/mmr44/CS670-Project-milestone3
